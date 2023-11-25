@@ -1,6 +1,16 @@
 # Advanced Sql Techniques for Data Engineering
 
-Project for IBM Data Engineering Sertificate.
+## Key learnings
+- In-depth knowledge of SQL
+- Relational Databases
+- Cloud databases
+
+## Techstack
+- SQL
+- IBM DB2
+
+## Summary
+Project for IBM Data Engineering Certificate.
 
 I was given 3 csv's for data which will be included in the files with all of the sql queries made.
 
